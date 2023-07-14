@@ -1,4 +1,4 @@
-About Amehbo
+# About Amehbo
 
 Amehbo is a groundbreaking social media app designed to foster engaging discussions and connections among users. With its unique blend of features, Amehbo offers a dynamic platform for sharing thoughts, opinions, and knowledge.
 
